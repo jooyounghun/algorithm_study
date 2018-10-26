@@ -18,6 +18,9 @@ I make this github repository for practicing a lot of algorithm like BFS, DFS, D
 * Minimum path searching using BFS algorithm.
 * Map lib testing.
 * Queue lib testing.
+* etc..
+
+## Write and Restore Script like below.
 
 - code scripts environment in MAC image source.
 <table>
