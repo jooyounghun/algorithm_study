@@ -19,16 +19,11 @@ I make this github repository for practicing a lot of algorithm like BFS, DFS, D
 * Map lib testing.
 * Queue lib testing.
 
-
-> Image Input
-
- ** Input size Reduction **
-
 - code scripts environment in MAC image source.
 <table>
   <tr>
     <td>
-     <img src="picture/pic1.PNG"/>
+     <img src="picture/pic1.png"/>
     </td>
   </tr>
 </table>
@@ -37,7 +32,7 @@ I make this github repository for practicing a lot of algorithm like BFS, DFS, D
 <table>
   <tr>
     <td>
-      <img src="picture/pic2.PNG"/>
+      <img src="picture/pic2.png"/>
     </td>
   </tr>
 </table>
